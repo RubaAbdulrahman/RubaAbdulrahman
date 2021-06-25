@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RubaAbdulrahman
+- 👋 Hi, I’m @Ruba Almarroti
 - 👀 I’m interested in ML Engineering
 - 🌱 I’m currently learning SWE, ML, and NLP
 - 💞️ I’m looking to collaborate on OS projects
